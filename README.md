@@ -15,7 +15,7 @@ To start the project
 npm run dev
 ```
 ## App UI 
-<p float="left">
-  <img src="/assets/Chatbox1.png"/>
-  <img src="/assets/Chatbox2.png"/> 
-</p>
+<div style="display: flex;">
+  <img src="/assets/Chatbox1.png" style="width: 50%; padding: 10px;" />
+  <img src="/assets/Chatbox2.png" style="width: 50%; padding: 10px;" /> 
+</div>
