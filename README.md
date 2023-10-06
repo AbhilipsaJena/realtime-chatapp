@@ -1,6 +1,11 @@
 # Realtime-chatapp
 Realtime chat app using socket.io and NodeJs
 
+##Overview
+Overview
+This is a real-time chat application built using WebSocket and Node.js.
+It allows multiple users to chat with each other in real-time by opening different browsers or tabs.
+
 ## Installation
 After clone or download, run for installing dependency
 ```npm
