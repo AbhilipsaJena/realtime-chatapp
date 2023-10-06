@@ -14,4 +14,8 @@ To start the project
 ```
 npm run dev
 ```
-
+## App UI 
+<p float="left">
+  <img src="/assets/Chatbox1.png"/>
+  <img src="/assets/Chatbox2.png"/> 
+</p>
